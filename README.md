@@ -1,4 +1,4 @@
-## 안녕하세요!
+## 안녕하세요! ([English](./Readme.en.md) / [日本語](./README.jp.md))
 
 ![Discord: Yongbin Kim#0130](https://img.shields.io/badge/Discord-Yongbin%20Kim%230130-blue?logo=discord&color=7289da&labelColor=697ec4&logoColor=ffffff)
 
