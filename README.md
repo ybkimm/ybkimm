@@ -1,10 +1,10 @@
-## 안녕하세요! ([English](./Readme.en.md) / [日本語](./README.jp.md))
+## 안녕하세요!
 
 ![Discord: Yongbin Kim#0130](https://img.shields.io/badge/Discord-Yongbin%20Kim%230130-blue?logo=discord&color=7289da&labelColor=697ec4&logoColor=ffffff)
 
 저는...
 
-* 백엔드 엔지니어(가 되고 싶은 대학생)
+* 백엔드 엔지니어(로 취직 준비중인 대학생)
 * 인디게임 개발자 (준비중)
 
 그리고...
