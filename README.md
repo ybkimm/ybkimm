@@ -25,9 +25,10 @@
 
 * [Bandcamp](https://bandcamp.com/ybkimm)
 
-사주세요!
+문의사항은 아래 메일로 연락 주세요.
 
-* [Amazon.co.jp](https://www.amazon.jp/hz/wishlist/ls/1O31XEUPKQTO3?ref=wl_share)
-* [Vultr](https://www.vultr.com/?ref=6930112)
+```
+iam@yongbin.kim
+```
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=ybkimm&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
