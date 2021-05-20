@@ -21,7 +21,7 @@
 
 こんなことをしました.
 
-* [2020軍将兵公開SWオンラインハッカソン（韓国）](https://osam.kr/main/page.jsp?pid=offline.offline19) 참가 ([Mindpill](https://github.com/osamhack2020/WEB_mindpill_mindpill))
+* [2020軍将兵公開SWオンラインハッカソン（韓国）](https://osam.kr/main/page.jsp?pid=offline.offline19) 参加 ([Mindpill](https://github.com/osamhack2020/WEB_mindpill_mindpill))
 
 お問い合わせ等はこちらのメールアドレスにご連絡ください。
 
