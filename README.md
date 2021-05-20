@@ -4,26 +4,21 @@
 
 저는...
 
-* 백엔드 엔지니어(로 취직 준비중인 대학생)
-* 인디게임 개발자 (준비중)
-
-그리고...
-
-* 경기과학기술대학교 휴학
-* 육군 12사단에서 군 복무중
-* [2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19) 참가 ([Mindpill](https://github.com/osamhack2020/WEB_mindpill_mindpill))
+* 경기과학기술대학교 재학
 
 이런 것들을 쓰고...
 
-* [Visual Studio Code](https://code.visualstudio.com/) / [code-server](https://github.com/cdr/code-server)
-* Corel Painter 2020 / PaintShop Pro 2020 / CAD 2019 / Affinity Designer
-* [Go](https://golang.org) / JavaScript / [TypeScript](https://www.typescriptlang.org/)
-* Windows 10 / Arch Linux with [Suckless](https://suckless.org/)
-* Discord / KakaoTalk
+* Macbook Pro 13-Inch (M1, 2020)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)/[Designer](https://affinity.serif.com/en-gb/designer/)
+* [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+* [Blender](blender.org)
+* [Go](https://golang.org)
+* [TypeScript](https://www.typescriptlang.org/)
 
-이런 노래를 틀어놓고...
+이런 것들을 했습니다.
 
-* [Bandcamp](https://bandcamp.com/ybkimm)
+* [2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19) 참가 ([Mindpill](https://github.com/osamhack2020/WEB_mindpill_mindpill))
 
 문의사항은 아래 메일로 연락 주세요.
 
