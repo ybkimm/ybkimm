@@ -3,6 +3,8 @@
 ![Discord: Yongbin Kim#0130](https://img.shields.io/badge/Discord-Yongbin%20Kim%230130-blue?logo=discord&color=7289da&labelColor=697ec4&logoColor=ffffff)
 [![Youtube Music Playlist](https://img.shields.io/badge/Music-Playlist-white?style=flat&logo=youtube-music&labelColor=FF0000)](https://music.youtube.com/playlist?list=PLl5Zvup5IjCu5fq5OHS5TAzbjAYkNh66t&feature=share)
 
+[日本語](https://github.com/ybkimm/ybkimm/blob/main/jp/README.md)
+
 저는...
 
 * 경기과학기술대학교 재학
