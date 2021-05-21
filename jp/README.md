@@ -11,7 +11,7 @@
 
 こんなものを使って…
 
-* Macbook Pro 13-Inch (M1, 2020)
+* Macbook Pro 13” (M1, 2020)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Affinity Photo](https://affinity.serif.com/en-gb/photo/)/[Designer](https://affinity.serif.com/en-gb/designer/)
 * [Final Cut Pro](https://www.apple.com/final-cut-pro/)
